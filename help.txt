@@ -1,0 +1,10 @@
+navbar(font-size)
+xl,lg,md		sm		col
+22px			22px    20px
+
+text color
+color: #010101;
+
+service
+padding top_bottom
+md 100px 130px
